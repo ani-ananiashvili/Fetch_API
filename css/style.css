@@ -1,0 +1,21 @@
+section {
+  padding: 10px;
+}
+
+#data {
+  padding: 10px 2px;
+}
+
+#ul-element {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+h1 {
+  display: flex;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 10 0px;
+  text-decoration: underline;
+}
